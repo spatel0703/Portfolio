@@ -33,6 +33,10 @@ The portfolio is a static website created using HTML for content, CSS for stylin
 
 5. Contact the author using the provided contact information in the footer.
 
+## Ongoing Progress
+
+The portfolio is a work in progress, and more content will be added over time. I plan to showcase additional projects and work to provide a comprehensive overview of my skills and experiences.
+
 ## Contributing
 
 Feel free to contribute to the project by:
