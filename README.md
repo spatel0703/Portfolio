@@ -5,7 +5,7 @@ This repository contains the source code for Shrey V Patel's portfolio, showcasi
 ## Overview
 
 - **Author:** Shrey V Patel
-- **Contact:** [spatel379@student.gsu.edu](mailto:spatel379@student.gsu.edu)
+- **Contact:** [shreypatel233@gmail.com](mailto:shreypatel233@gmail.com)
 
 ## Project Structure
 
